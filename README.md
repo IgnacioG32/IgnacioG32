@@ -1,4 +1,3 @@
-<img src="14a0769ec2f5941fd56f82cfb6d4242a.jpg" width="220" alt="Foto de presentación" style="float: right; margin: 0 0 16px 24px; border-radius: 50%; object-fit: cover;" />
 <h1>
   Buenas! Mi nombre es Ignacio / Trezth 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
