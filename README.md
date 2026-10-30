@@ -7,7 +7,7 @@ Soy un desarrollador web full stack, me encantan los desafios y los proyectos qu
 </p>
 
 - 👨‍💻 Actualmente desarrollo paginas con React, Express y FastAPI, entre otras librerias
-- 📚 Actualmente me encuentro estudiando un curso de Angular en Udemy
+- 📚 Actualmente me encuentro estudiando un curso de React en Udemy
 - 🎯 Mis objetivos son: Desarrollar sistemas o paginas que logren propuestas que busquen solucionar problemas reales
   
 ### 🤝 Conectemos
@@ -27,6 +27,7 @@ Soy un desarrollador web full stack, me encantan los desafios y los proyectos qu
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white")
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![FireBase](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png)
 
 #### 🖥️ Frameworks
 ![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
